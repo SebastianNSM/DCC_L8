@@ -2,9 +2,9 @@
    el proposito de enviar "data". Debido a esto, el RestController es el ideal
    para estos casos.
 
-2. help?
+2. Injeccion de dependencias por el constructor
 
-3. Por que no recibe parámetros?
+3. Por que se envia al RequestMapping definido para el RestController.
 
 4. Notificación de que el recurso ya no existe luego de la primer ejecución.
 
